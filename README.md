@@ -1,6 +1,6 @@
 # Autumn 2024 UW Ecoseminar on open and reproducible science practices
 
-We’ll use the [Openscapes lesson series](https://openscapes.github.io/series/), which is an open data science mentorship program aiming to make science more efficient, collaborative, inclusive, and kind. We’ll work as a community of practice to share strategies and develop or refine science practices for individuals and research groups. The seminar will cover GitHub version control, data, and coding strategies. If there’s interest, we may spend some time exploring R Shiny for creating interactive data visualizations, building off a previous Ecoseminar on [R Shiny](https://github.com/ecoseminar).
+We’ll use the [Openscapes lesson series](https://openscapes.github.io/series/), which is an open data science mentorship program aiming to make science more efficient, collaborative, inclusive, and kind. We’ll work as a community of practice to share strategies and develop or refine science practices for individuals and research groups. The seminar will cover GitHub version control, data, and coding strategies. Please bring a laptop if possible for hands on activities. If there’s interest, we may spend some time exploring R Shiny for creating interactive data visualizations, building off a previous Ecoseminar on [R Shiny](https://github.com/ecoseminar).
 
 Subscribe to the ecoseminar@u.washington.edu mailing list [here](http://mailman13.u.washington.edu/mailman/listinfo/ecoseminar).  
 
@@ -8,7 +8,7 @@ Meetings Fridays 9:30-10:20 am starting September 27 in LSB 401
 
 ## Tentative Schedule (pending community input)
 
-Week 1, 9/27: Intro and [Mindset](https://openscapes.github.io/series/core-lessons/mindset.html)
+Week 1, 9/27: [Intro](https://openscapes.github.io/series/) and [Mindset](https://openscapes.github.io/series/core-lessons/mindset.html)
 
 Week 2, 10/4: [Better science](https://openscapes.github.io/series/core-lessons/better-science.html)
 
