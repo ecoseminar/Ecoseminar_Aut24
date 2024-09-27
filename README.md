@@ -18,6 +18,12 @@ Before ecoseminar: Read the [Better science](https://openscapes.github.io/series
 
 During ecoseminar: We will discuss the better science materials and complete and discuss our [pathways spreadsheets](https://docs.google.com/spreadsheets/d/16DZqKoqh2q9jM_gKLFW9cq2t_jvSbGkVz3cqywhAY70/edit?gid=0#gid=0). We'll explore the features of GitHub and how they might be used to share science practices. Examples [here](https://github.com/Openscapes/how_we_work). 
 
+Additional resources for using GitHub for collaboration:
+
+[Earth Data Science GitHub for collaboration](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/)
+
+[Carpentries](https://carpentries-incubator.github.io/open-science-with-r/09-collaborating/index.html)
+
 ### Week 3, 10/11: Intro to R led by Julia Smith
 
 ### Week 4, 10/18: [GitHub strategies](https://openscapes.github.io/series/core-lessons/github/)
