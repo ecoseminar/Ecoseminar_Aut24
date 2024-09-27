@@ -13,8 +13,10 @@ Meetings Fridays 9:30-10:20 am starting September 27 in LSB 401
   [slides](https://docs.google.com/presentation/d/1agmkvF289e0_oC-gqVPXRgvmyP6XeOcMdFtxElhX-YY/edit#slide=id.g2ca54a700e5_0_0), [pathways spreadsheet](https://docs.google.com/spreadsheets/d/16DZqKoqh2q9jM_gKLFW9cq2t_jvSbGkVz3cqywhAY70/edit?gid=0#gid=0)
 
 ### Week 2, 10/4: [Better science](https://openscapes.github.io/series/core-lessons/better-science.html)
-Getting started with GitHub to document practices
-Going over example strategies e.g., OHI
+
+Before ecoseminar: Read the [Better science](https://openscapes.github.io/series/core-lessons/better-science.html) resources and optionally the linked [Better science in less time](https://www.nature.com/articles/s41559-017-0160) example of a team revising their science practices.
+
+During ecoseminar: We will discuss the better science materials and complete and discuss our [pathways spreadsheets](https://docs.google.com/spreadsheets/d/16DZqKoqh2q9jM_gKLFW9cq2t_jvSbGkVz3cqywhAY70/edit?gid=0#gid=0). We'll explore the features of GitHub and how they might be used to share science practices. Examples [here](https://github.com/Openscapes/how_we_work). 
 
 ### Week 3, 10/11: Intro to R led by Julia Smith
 
