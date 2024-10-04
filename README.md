@@ -30,7 +30,6 @@ Ecoseminar crew examples:
 [Buckley How we work](https://github.com/HuckleyLab/how_we_work)
 [Roberts Lab SEFS](https://faculty.washington.edu/sr320/)
 [Brosi Lab](https://github.com/Brosi-Lab)
-commits are easy
 
 [Data Sharing and Management Snafu Video](https://www.youtube.com/watch?v=N2zK3sAtr-4) from NYU Health Sciences
 
