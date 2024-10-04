@@ -14,7 +14,7 @@ Meetings Fridays 9:30-10:20 am starting September 27 in LSB 401
 
 ### Week 2, 10/4: [Better science](https://openscapes.github.io/series/core-lessons/better-science.html)
 
-[slides](https://drive.google.com/drive/u/2/folders/1by6-4R1CGg33EbAxstdpTLgzhdQHy28C)
+[slides](https://docs.google.com/presentation/d/1MeDZCRIso6ZPYSKqAwl0LheVpb4ftYHEbidgrSQ8Zfs/edit#slide=id.g1f08e8b5a2d_0_361)
 
 Before ecoseminar: Read the [Better science](https://openscapes.github.io/series/core-lessons/better-science.html) resources and optionally the linked [Better science in less time](https://www.nature.com/articles/s41559-017-0160) example of a team revising their science practices.
 
