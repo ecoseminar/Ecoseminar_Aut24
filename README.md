@@ -31,6 +31,9 @@ Ecoseminar crew examples:
 [Roberts Lab SEFS](https://faculty.washington.edu/sr320/)
 [Brosi Lab](https://github.com/Brosi-Lab)
 commits are easy
+
+[Data Sharing and Management Snafu Video](https://www.youtube.com/watch?v=N2zK3sAtr-4) from NYU Health Sciences
+
 ### Week 3, 10/11: Intro to R led by Julia Smith
 
 ### Week 4, 10/18: [GitHub strategies](https://openscapes.github.io/series/core-lessons/github/)
