@@ -30,7 +30,7 @@ Ecoseminar crew examples:
 [Buckley How we work](https://github.com/HuckleyLab/how_we_work)
 [Roberts Lab SEFS](https://faculty.washington.edu/sr320/)
 [Brosi Lab](https://github.com/Brosi-Lab)
-
+commits are easy
 ### Week 3, 10/11: Intro to R led by Julia Smith
 
 ### Week 4, 10/18: [GitHub strategies](https://openscapes.github.io/series/core-lessons/github/)
