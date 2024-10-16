@@ -37,6 +37,14 @@ Ecoseminar crew examples:
 
 ### Week 4, 10/18: [GitHub strategies](https://openscapes.github.io/series/core-lessons/github/)
 
+[slides](https://docs.google.com/presentation/d/16g6QLhcR9IS1WNN6Kqqb1dk1WhSZmoA2A6OlbzdGlRg/)
+
+Before ecoseminar: Read the [GitHub strategies](https://openscapes.github.io/series/core-lessons/github/) resources.
+
+During ecoseminar: We'll further explore the features of GitHub and practice their use.
+
+The lesson focuses of using GitHub in the browser, but if you want to get stated installing Git and get it working smoothly with GitHub and R this is a [good resource](https://happygitwithr.com/) 
+
 ### Week 5, 10/25: [Team culture](https://openscapes.github.io/series/core-lessons/team-culture.html)
 
 ### Week 6, 11/1: [Data strategies](https://openscapes.github.io/series/core-lessons/data-strategies.html)
