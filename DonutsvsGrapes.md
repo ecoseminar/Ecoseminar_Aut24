@@ -2,4 +2,4 @@
 
 Add an "x" after this text to vote for donuts: xx
 
-Add an "x" after this text to vote for grapes: x
+Add an "x" after this text to vote for grapes: xx
