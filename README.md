@@ -43,7 +43,7 @@ Before ecoseminar: Read the [GitHub strategies](https://openscapes.github.io/ser
 
 During ecoseminar: We'll further explore the features of GitHub and practice their use.
 
-The lesson focuses of using GitHub in the browser, but if you want to get stated installing Git and get it working smoothly with GitHub and R this is a [good resource](https://happygitwithr.com/) 
+The lesson focuses on using GitHub in the browser, but if you want to get stated installing Git and get it working smoothly with GitHub and R this is a [good resource](https://happygitwithr.com/) 
 
 ### Week 5, 10/25: [Team culture](https://openscapes.github.io/series/core-lessons/team-culture.html)
 
