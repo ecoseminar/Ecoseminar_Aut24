@@ -8,4 +8,4 @@ Add an "X" after this text to vote for grape donuts:
 
 Add an "x" after this text to vote for pancakes:
 
-Add an "x" after this text to vote for pikas: xxxxxxxxxxxxxxxxxxxxxxx
+Add an "x" after this text to vote for pikas: xxxxxxxxxxxxxxxxxxxxxxxxxxx
