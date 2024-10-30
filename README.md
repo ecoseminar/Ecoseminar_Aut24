@@ -51,6 +51,10 @@ During ecoseminar: We will trouble shoot GitHub - R integration and practice the
 
 ### Week 6, 11/1: [Team culture](https://openscapes.github.io/series/core-lessons/team-culture.html)
 
+Before ecoseminar: Read the [Team culture](https://openscapes.github.io/series/core-lessons/team-culture.html) resources.
+
+During ecoseminar: We'll discuss what's going well and how to improve team culture in our research groups, pod, and department.
+
 ### Week 7, 11/8: [Data strategies](https://openscapes.github.io/series/core-lessons/data-strategies.html)
 
 ### Week 8, 11/15:[Coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies.html)        	
