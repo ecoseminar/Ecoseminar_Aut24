@@ -57,6 +57,10 @@ During ecoseminar: We'll discuss what's going well and how to improve team cultu
 
 ### Week 7, 11/8: [Data strategies](https://openscapes.github.io/series/core-lessons/data-strategies.html)
 
+Before ecoseminar: Read the [Data strategies](https://openscapes.github.io/series/core-lessons/data-strategies.html).
+
+During ecoseminar: We'll discuss personal and team habits for data management and sharing.
+
 ### Week 8, 11/15:[Coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies.html)        	
 
 ### Week 9, 11/22 R Shiny?
