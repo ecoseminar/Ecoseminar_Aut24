@@ -59,6 +59,8 @@ During ecoseminar: We'll discuss what's going well and how to improve team cultu
 
 Before ecoseminar: Read the [Data strategies](https://openscapes.github.io/series/core-lessons/data-strategies.html).
 
+[slides](https://docs.google.com/presentation/d/1iQ0UMP3jad9mC2ppH9XvhBKIBF8UZsy7phjizoNNn04/edit#slide=id.g313198837e9_0_0)
+
 During ecoseminar: We'll discuss personal and team habits for data management and sharing.
 
 ### Week 8, 11/15:[Coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies.html)        	
