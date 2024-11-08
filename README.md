@@ -65,10 +65,12 @@ During ecoseminar: We'll discuss personal and team habits for data management an
 
 ### Week 8, 11/15:[Coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies.html)        	
 
-### Week 9, 11/22 R Shiny?
+### Week 9, 11/22 Work session to explore and share good enough practices, norms, and templates (e.g., metadata, code READMEs)
+
+Please add priorities here:
 
 ### Week 10, 11/29: Holiday- Native American Heritage Day
 
-### Week 11, 12/6 Wrap Up
+### Week 11, 12/6 Work session / Wrap Up
 
 
