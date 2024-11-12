@@ -68,8 +68,8 @@ During ecoseminar: We'll discuss personal and team habits for data management an
 Before ecoseminar: Read the [Coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies.html).
 
 Other resources to optionally read: 
-+Software Carpentry [best practices](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html) and [code testing and review](https://carpentries-incubator.github.io/managing-computational-projects/13-codereview.html)
-+Tidyverse [style guide](https://style.tidyverse.org/)
++ Software Carpentry [best practices](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html) and [code testing and review](https://carpentries-incubator.github.io/managing-computational-projects/13-codereview.html)
++ Tidyverse [style guide](https://style.tidyverse.org/)
 
 [slides](https://docs.google.com/presentation/d/1zUXK2B0J_tw-qF3LMUFdImLkGpHc6sEOoNmzi_eV_xA/edit#slide=id.g2221419f8ee_0_162)
 
