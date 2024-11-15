@@ -6,6 +6,9 @@ Subscribe to the ecoseminar@u.washington.edu mailing list [here](http://mailman1
 
 Meetings Fridays 9:30-10:20 am starting September 27 in LSB 401
 
+## Good enough practices 
+[Google Doc resource list / notes](https://docs.google.com/document/d/1x0dfe2yuSbwsZsZ1h06mN1J55BMOkhKhY8hZ_MUZ7Mg/edit?usp=sharing)
+
 ## Tentative Schedule (pending community input)
 
 ### Week 1, 9/27: [Intro](https://openscapes.github.io/series/) and [Mindset](https://openscapes.github.io/series/core-lessons/mindset.html)
