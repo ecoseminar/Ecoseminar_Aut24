@@ -70,6 +70,7 @@ Before ecoseminar: Read the [Coding strategies](https://openscapes.github.io/ser
 Other resources to optionally read: 
 + Software Carpentry [best practices](https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html) and [code testing and review](https://carpentries-incubator.github.io/managing-computational-projects/13-codereview.html)
 + Tidyverse [style guide](https://style.tidyverse.org/)
++ Dynamic Ecology [Big code debugging](https://dynamicecology.wordpress.com/2024/10/14/is-ecology-ready-for-big-code/)
 
 [slides](https://docs.google.com/presentation/d/1zUXK2B0J_tw-qF3LMUFdImLkGpHc6sEOoNmzi_eV_xA/edit#slide=id.g2221419f8ee_0_162)
 
