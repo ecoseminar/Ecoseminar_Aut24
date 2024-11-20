@@ -6,8 +6,12 @@ Subscribe to the ecoseminar@u.washington.edu mailing list [here](http://mailman1
 
 Meetings Fridays 9:30-10:20 am starting September 27 in LSB 401
 
-## Good enough practices 
-[Google Doc resource list / notes](https://docs.google.com/document/d/1x0dfe2yuSbwsZsZ1h06mN1J55BMOkhKhY8hZ_MUZ7Mg/edit?usp=sharing)
+## Good enough practices
+Please add resource here, upload yor resource, or make your own md file for more extensive resources.
+* [Data Resources](https://github.com/ecoseminar/Ecoseminar_Aut24/blob/main/DataResources.md)
+* [Coding Resources](https://github.com/ecoseminar/Ecoseminar_Aut24/blob/main/CodingResources.md)
+
+Editting md in GitHub is prefered, but you can alternativeley add to this [Google Doc resource list / notes](https://docs.google.com/document/d/1x0dfe2yuSbwsZsZ1h06mN1J55BMOkhKhY8hZ_MUZ7Mg/edit?usp=sharing)
 
 ## Tentative Schedule (pending community input)
 
@@ -81,7 +85,7 @@ During ecoseminar: Bring your best coding tricks and practices to discuss
 
 ### Week 9, 11/22 Work session to explore and share good enough practices, norms, and templates (e.g., metadata, code READMEs)
 
-Please add priorities here:
+See top of page for Good enough practices resources. For Ecoseminar credit, please open an issue describing one goal for improving your open and reproducible science practices (e.g., changing file naming or structure, posting code to GitHub, sharing a resource), make a change of whatever magnitude, and close the issue. 
 
 ### Week 10, 11/29: Holiday- Native American Heritage Day
 
