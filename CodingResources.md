@@ -7,3 +7,5 @@
 * [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/)
 * [Eleven strategies for making reproducible research and open science training the norm at research institutions](https://elifesciences.org/articles/89736)  
 * [R Programming: Zero to Pro](https://r02pro.github.io/)
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
