@@ -1,6 +1,6 @@
 # Code README templates
-[AmNat template](https://www.journals.uchicago.edu/pb-assets/docs/journals/ANREADMEtemplate-1693930712733.md)
-[GitHub project template for ecology](https://github.com/TheoreticalEcology/ProjectTemplate)
+* [AmNat template](https://www.journals.uchicago.edu/pb-assets/docs/journals/ANREADMEtemplate-1693930712733.md)
+* [GitHub project template for ecology](https://github.com/TheoreticalEcology/ProjectTemplate)
 
 # Resources
 * [Data carpentry for biologists](https://github.com/datacarpentry/semester-biology)
