@@ -4,3 +4,5 @@
 # Resources
 * [Data carpentry for biologists](https://github.com/datacarpentry/semester-biology)
 * [Environmental computing](http://environmentalcomputing.net/)
+* [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/)
+  
