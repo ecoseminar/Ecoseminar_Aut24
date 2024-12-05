@@ -84,11 +84,11 @@ Other resources to optionally read:
 During ecoseminar: Bring your best coding tricks and practices to discuss
 
 ### Week 9, 11/22 Work session to explore and share good enough practices, norms, and templates (e.g., metadata, code READMEs)
+### Week 11, 12/6 Work session II / Wrap Up
 
 See top of page for Good enough practices resources. For Ecoseminar credit, please open an issue describing one goal for improving your open and reproducible science practices (e.g., changing file naming or structure, posting code to GitHub, sharing a resource), make a change of whatever magnitude, and close the issue. 
 
-### Week 10, 11/29: Holiday- Native American Heritage Day
 
-### Week 11, 12/6 Work session / Wrap Up
+
 
 
